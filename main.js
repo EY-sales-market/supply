@@ -7,7 +7,7 @@
 /*! exports provided: serverip, default */
 /***/ (function(module) {
 
-module.exports = {"serverip":"https://e2e-65-194.e2enetworks.net.in:3000/"};
+module.exports = {"serverip":"https://e2e-65-194.e2enetworks.net.in:3000"};
 
 /***/ }),
 
